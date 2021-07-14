@@ -12,7 +12,8 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные с сайта www.freeformatter.com:
+В качестве тестовых данных использовались данные 
+[Credit Card Number Generator & Validator](www.freeformatter.com)
 
 VISA:
 - 4532171286257918   result is ok
